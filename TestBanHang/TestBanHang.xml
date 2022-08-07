@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestDatas>
+  <TinhTienThuoc>
+    <LoaiThuoc>THUỐC SỐT</LoaiThuoc>
+    <TenThuoc>THUỐC SỐT MỸ</TenThuoc>
+    <SoLuong>3</SoLuong>
+    <TienKhachDua>90000</TienKhachDua>
+  </TinhTienThuoc>
+    <TinhTienThuoc>
+      <LoaiThuoc>THUỐC SỔ MŨI</LoaiThuoc>
+      <TenThuoc>THUỐC SỔ MŨI Coldacmin Flu</TenThuoc>
+      <SoLuong>3</SoLuong>
+      <TienKhachDua>20000</TienKhachDua>
+  </TinhTienThuoc>
+  <TinhTienThuoc>
+    <LoaiThuoc>THUỐC TRỊ  NHỨC ĐẦU</LoaiThuoc>
+    <TenThuoc>THUỐC NHỨC ĐẦU Decolgen ND</TenThuoc>
+    <SoLuong>3</SoLuong>
+    <TienKhachDua>2000000</TienKhachDua>
+  </TinhTienThuoc>
+</TestDatas>
